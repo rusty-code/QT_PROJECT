@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/ico">
+        <file>depart_type.png</file>
+        <file>depart.png</file>
+        <file>doc.png</file>
+        <file>empl.png</file>
+        <file>prjct_stat.png</file>
+        <file>prjct.png</file>
+        <file>spec.png</file>
+    </qresource>
+</RCC>
